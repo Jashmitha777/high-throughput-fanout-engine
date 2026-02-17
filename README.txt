@@ -349,7 +349,8 @@ sinks:
 ------------------------------------------------------------
 
 Step 1: Build the Project
-
+    first cd fanout-engine 
+then
     mvn clean install
 
 Step 2: Run the Application
@@ -472,3 +473,4 @@ The design reflects real-world backend systems used for:
 ------------------------------------------------------------
 END OF FILE
 ------------------------------------------------------------
+
